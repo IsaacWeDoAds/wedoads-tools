@@ -1,0 +1,24 @@
+Macro cinematic shot: a single antique brass key suspended in near-black empty
+space, warm amber rim light raking across its bow and teeth, fine dust motes
+drifting through the beam. Slow, steady dolly push-in toward the key. Very
+shallow depth of field. At roughly two seconds, dozens more identical brass keys
+drift slowly into frame from the depth behind it, filling the space, heavily out
+of focus, until the frame is a soft field of floating keys.
+
+Style: warm low-key studio product cinematography, single soft key light from
+camera-left, deep shadows, rich blacks, subtle film grain, anamorphic-feeling
+shallow focus. Colour palette limited to warm brass, amber and near-black.
+Photorealistic. 9:16 vertical.
+
+STRICT NEGATIVE CONSTRAINTS — read carefully:
+- NO text of any kind. No words, no letters, no numbers, no captions, no
+  subtitles, no watermarks, no logos, no signage, no brand marks.
+- NO user interface, no screens, no monitors, no phones, no keyboards, no
+  terminals, no code.
+- NO people, no hands, no faces, no body parts.
+- NO keyholes, no doors, no locks, no keyrings, no chains.
+- NO cartoon, illustration, painting or 3D-render look. Photorealistic only.
+- NO fast cuts, no camera shake, no whip pans. One continuous slow push-in.
+- Keep the key metallic brass — not gold, not silver, not glowing.
+
+If in doubt about adding any element, add fewer, never more.
